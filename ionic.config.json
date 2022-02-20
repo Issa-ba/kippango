@@ -1,0 +1,7 @@
+{
+  "name": "kippango",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
